@@ -1,4 +1,5 @@
-data/GITW/*
+data/GITW_clean/*
+logs/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
